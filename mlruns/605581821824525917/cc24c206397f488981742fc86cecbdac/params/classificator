@@ -1,0 +1,1 @@
+DecisionTreeClassifier(min_samples_leaf=20, random_state=42)

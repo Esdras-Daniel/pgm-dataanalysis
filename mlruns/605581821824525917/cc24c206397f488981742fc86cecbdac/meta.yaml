@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/605581821824525917/cc24c206397f488981742fc86cecbdac/artifacts
+end_time: 1752580324891
+entry_point_name: ''
+experiment_id: '605581821824525917'
+lifecycle_stage: active
+run_id: cc24c206397f488981742fc86cecbdac
+run_name: serious-jay-478
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752579915934
+status: 3
+tags: []
+user_id: esdras-daniel
