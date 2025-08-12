@@ -1,0 +1,4 @@
+{
+  "Pipeline_score_X_train": "Pipeline.score(X=X_train, y=y_train)",
+  "precision_score_X_train": "precision_score(y_true=<ndarray>, y_pred=<ndarray>, average='weighted')"
+}

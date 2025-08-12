@@ -1,0 +1,2 @@
+TfidfVectorizer(max_features=2000,
+                preprocessor=<function normalize_text at 0x70770f9ddd00>)

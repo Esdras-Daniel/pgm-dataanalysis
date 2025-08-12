@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/605581821824525917/9fc838d47ef24fe5814a3f923652d093/artifacts
+end_time: 1753272222746
+entry_point_name: ''
+experiment_id: '605581821824525917'
+lifecycle_stage: active
+run_id: 9fc838d47ef24fe5814a3f923652d093
+run_name: skittish-carp-249
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753271846267
+status: 3
+tags: []
+user_id: esdras-daniel

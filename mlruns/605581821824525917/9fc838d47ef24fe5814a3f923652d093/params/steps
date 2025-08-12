@@ -1,0 +1,2 @@
+[('feature-extraction', TfidfVectorizer(max_features=2000,
+                preprocessor=<function normalize_text at 0x70770f9ddd00>)), ('classificator', DecisionTreeClassifier(min_samples_leaf=20, random_state=42))]
