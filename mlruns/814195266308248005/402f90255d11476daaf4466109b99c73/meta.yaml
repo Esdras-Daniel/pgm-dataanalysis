@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/814195266308248005/402f90255d11476daaf4466109b99c73/artifacts
+end_time: 1756253693202
+entry_point_name: ''
+experiment_id: '814195266308248005'
+lifecycle_stage: active
+run_id: 402f90255d11476daaf4466109b99c73
+run_name: Random_Forrest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756253692532
+status: 4
+tags: []
+user_id: esdras-daniel
